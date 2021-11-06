@@ -1,0 +1,26 @@
+body{
+    text-align:center;
+    padding-top: 800px;
+}
+.parallax-inner{
+    display:table-cell;
+    position: relative;
+    
+}
+#welcome{
+    height: 800px;
+    background-color: aquamarine;
+}
+#hello{
+    border-radius: 50px;
+}
+h1{
+    font-size: 50px;
+    font-family: fantasy;
+    color: red;
+}
+.line{
+    height: 4px;
+    background-color: black;
+    width:200px;
+}
